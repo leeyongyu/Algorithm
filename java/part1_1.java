@@ -3,7 +3,7 @@ package algorithm;
 import java.util.Scanner;
 
 public class part1_1 {
-	// ¹®ÀÚ Ã£±â
+	// ë¬¸ì ì°¾ê¸°
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		String str = in.next();

@@ -4,7 +4,7 @@ import java.util.*;
 public class part2_9 {
 
 	public static void main(String[] args) {
-		// °İÀÚÆÇ ÃÖ´ëÇÕ
+		// ê²©ìíŒ ìµœëŒ€í•©
 		Scanner input = new Scanner(System.in);
 		
 		int n = input.nextInt();

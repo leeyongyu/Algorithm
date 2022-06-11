@@ -4,8 +4,7 @@ import java.util.*;
 public class part2_3 {
 
 	public static void main(String[] args) {
-		// °¡À§¹ÙÀ§º¸
-		// 1:°¡À§ , 2:¹ÙÀ§, 3:º¸
+		// ê°€ìœ„ë°”ìœ„ë³´
 		Scanner input = new Scanner(System.in);
 		
 		int n = input.nextInt();

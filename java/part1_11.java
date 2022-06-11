@@ -5,7 +5,7 @@ import java.util.*;
 public class part1_11 {
 
 	public static void main(String[] args) {
-		// ¹®ÀÚ¿­ ¾ĞÃà
+		// ë¬¸ìì—´ ì••ì¶•
 		Scanner input = new Scanner(System.in);
 		
 		String str = input.next();

@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class part1_4 {
 
 	public static void main(String[] args) {
-		// ´Ü¾î µÚÁý±â
+		// ë‹¨ì–´ ë’¤ì§‘ê¸°
 		Scanner input = new Scanner(System.in);
 		
 		int count = input.nextInt();

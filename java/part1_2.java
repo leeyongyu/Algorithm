@@ -3,9 +3,8 @@ package algorithm;
 import java.util.Scanner;
 
 public class part1_2 {
-
+	// ëŒ€ì†Œë¬¸ì ë³€í™˜
 	public static void main(String[] args) {
-		// ´ë¼Ò¹®ÀÚ º¯È¯
 		Scanner input = new Scanner(System.in);
 		
 		String str = input.next();
